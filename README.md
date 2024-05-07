@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./public/logo_light.png" width="350" alt="ChatXRootD logo">
+</p>
+
 # ChatXRootD
 
 LLM-driven [XRootD](https://xrootd.slac.stanford.edu/) documentation search and Q&amp;A
